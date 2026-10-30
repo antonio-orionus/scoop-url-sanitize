@@ -1,12 +1,12 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Remove tracking parameters and unwrap tracking redirects from URLs.",
   "homepage": "https://github.com/antonio-orionus/url-sanitize",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/antonio-orionus/url-sanitize/releases/download/v2.0.4/url-sanitize-x86_64-pc-windows-msvc.zip",
-      "hash": "516089ed1b4595a0eaca89c995f436513c0c643fd69ceab5fd1f189a7d3acf4a"
+      "url": "https://github.com/antonio-orionus/url-sanitize/releases/download/v2.0.5/url-sanitize-x86_64-pc-windows-msvc.zip",
+      "hash": "3af9db0f195de0a8ee990ab79d828ffa58cacf894e4e8400890f70bf328716d5"
     }
   },
   "bin": "url-sanitize.exe",
